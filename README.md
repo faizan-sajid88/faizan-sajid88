@@ -1,4 +1,4 @@
-# Hey there, fellow code aficionado!:
+# Hey there, fellow code aficionado !
  I am a former passionate chemical engineer turned front-end developer. Equipped with new skills from the School of Accelerated Learning, I'm fueled by a passion for creating and manipulating visual elements. My journey is a fusion of technical expertise and creative flair, as I dive into a fulfilling career crafting immersive and user-friendly digital experiences
 
 
